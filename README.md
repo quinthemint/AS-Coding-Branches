@@ -1,21 +1,23 @@
-# AS-Coding-Branches
+# as coding branches? more like nerd status!!! lmaoo!!!!
 
 Branches Practice (github for poets)
 
-I *hate* poetry.... _**all of the time**_
+I *really dislike* poetry (hate is a strong word).... _**constantly**_
 
 ```js
-function addP(n){
-  return n + "P";
+function peen(n){
+  return n + "P hehe";
 } 
 ```
 
 ## The title was supposed to be "githubforpoets"
 
-- Walt Whitman
+- Walter white
 - Walter White 
-- Walden Pond 
+- Walter White 
 - Mateo Mijares
+- tytyisrad18
 
 > Line breaks are important  
 > In Poetry
+> only someitmes thoguh
